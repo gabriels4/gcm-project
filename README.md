@@ -1,3 +1,3 @@
-# gcm-project
+# gti-project
 # função: aluno
 # faculdade : Impacta
